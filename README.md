@@ -12,7 +12,7 @@ The Iris dataset is a commonly used dataset in machine learning and statistics. 
 
 1. Clone the repository using the following command:
    ```
-   git clone https://github.com/OwqanDaisy/iris-project.git
+   git clone https://github.com/OwanDaisy/iris-project.git
    ```
 
 2. Navigate to the project directory:
